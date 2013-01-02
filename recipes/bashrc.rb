@@ -1,0 +1,5 @@
+pivotal_workstation_bash_profile_include "base"
+pivotal_workstation_bash_profile_include "aliases"
+pivotal_workstation_bash_profile_include "prompt"
+pivotal_workstation_bash_profile_include "exports"
+pivotal_workstation_bash_profile_include "functions"
